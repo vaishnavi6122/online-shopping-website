@@ -1,0 +1,23 @@
+li{
+    margin-right: 2vw;
+    text-decoration: none;
+}
+
+.heading{
+    color: white!important;
+}
+
+#bgimage{
+    background-image: url("../bg.jpg");
+    width: 100vw;
+    height: 95vh;
+}
+
+body{
+    font-size: 10px!important;
+}
+
+.bi{
+  
+        display: inline;
+}

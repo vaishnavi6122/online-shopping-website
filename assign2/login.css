@@ -1,0 +1,13 @@
+.signUp{
+    width: 40vw;
+    margin: auto;
+    margin-top: 15vh;
+    border: solid 2px rgb(228, 224, 224);
+    border-radius: 10px;
+    padding: 0 0 0 0;
+    overflow: hidden;
+}
+
+.input{
+    margin: 2vh 0;
+}
